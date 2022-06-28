@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\hp\Desktop\mywebsite2</_PublishTargetUrl>
+    <History>True|2022-01-12T12:37:04.2741541Z;True|2022-01-12T13:16:58.4439094+01:00;True|2022-01-12T13:13:01.0779304+01:00;True|2022-01-12T13:06:50.6840743+01:00;False|2022-01-12T13:03:10.1417501+01:00;</History>
+  </PropertyGroup>
+</Project>
